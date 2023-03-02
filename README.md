@@ -1,3 +1,9 @@
+Libraries used :
+pytesseraact 
+pillow 
+opencv 
+
+
 # Aadhar-Card-OCR
 
 <h3> This Python code will extract data from your Aadhar Card like ID Number, Date of Birth, Gender and also it extract the photo from Aadhar card.</h3>
